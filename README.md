@@ -1,7 +1,6 @@
 # Stock Portfolio Management System
 
-A Java desktop app backed by a MySQL database for tracking investors, brokerage accounts, companies, stocks, and trades. I built it for my Database Management course at Central Washington University (CS 420, Spring 2026). I used AI-assisted coding tools for parts of the Java code, and I designed the database and wrote the SQL.
-
+A Java desktop app backed by a MySQL database for tracking investors, brokerage accounts, companies, stocks, and trades. I built it for my Database Management course at Central Washington University (CS 420, Spring 2026).
 ## What it does
 
 The app opens a Swing window with three tabs.
